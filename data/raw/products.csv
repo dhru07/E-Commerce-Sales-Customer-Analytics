@@ -1,0 +1,251 @@
+product_id,product_name,category,subcategory,unit_price,unit_cost
+20001,Football 20001,Sports,Football,2034.59,1256.83
+20002,Storage Box 20002,Home,Storage Box,10282.55,6040.96
+20003,Perfume 20003,Beauty,Perfume,2966.78,1197.73
+20004,Yoga Mat 20004,Sports,Yoga Mat,10687.99,6945.78
+20005,Smartphone 20005,Electronics,Smartphone,1971.82,775.58
+20006,Monitor 20006,Electronics,Monitor,66361.9,40574.05
+20007,Running Shoes 20007,Sports,Running Shoes,12616.36,6321.06
+20008,Storage Box 20008,Home,Storage Box,7931.3,3163.37
+20009,Moisturizer 20009,Beauty,Moisturizer,1160.15,521.78
+20010,Jeans 20010,Fashion,Jeans,,861.46
+20011,Football 20011,Sports,Football,5804.22,2185.11
+20012,Face Wash 20012,Beauty,Face Wash,3166.39,1300.02
+20013,Sneakers 20013,Fashion,Sneakers,2355.66,1097.0
+20014,Moisturizer 20014,Beauty,Moisturizer,557.2,204.62
+20015,Keyboard 20015,Electronics,Keyboard,2014.41,787.18
+20016,Sneakers 20016,Fashion,Sneakers,3654.84,1512.21
+20017,Dress 20017,Fashion,Dress,1109.27,542.21
+20018,Serum 20018,Beauty,Serum,1164.92,639.96
+20019,Shampoo 20019,Beauty,Shampoo,1058.34,495.5
+20020,Monitor 20020,Electronics,Monitor,2720.59,1531.65
+20021,Yoga Mat 20021,Sports,Yoga Mat,8993.0,4728.96
+20022,Badminton Racket 20022,Sports,Badminton Racket,4318.99,2170.88
+20023,Lamp 20023,Home,Lamp,1420.83,679.29
+20024,Backpack 20024,Fashion,Backpack,5806.29,3085.88
+20025,Bedsheet 20025,Home,Bedsheet,789.05,334.17
+20026,Chair 20026,Home,Chair,5768.56,2502.63
+20027,Serum 20027,Beauty,Serum,265.01,170.54
+20028,T-Shirt 20028,Fashion,T-Shirt,2140.06,1062.98
+20029,Monitor 20029,Electronics,Monitor,4040.78,2378.0
+20030,Perfume 20030,Beauty,Perfume,2172.88,1071.51
+20031,Face Wash 20031,Beauty,Face Wash,4512.81,1851.07
+20032,Dress 20032,Fashion,Dress,421.54,251.42
+20033,Perfume 20033,Beauty,Perfume,1277.1,532.22
+20034,Chair 20034,Home,Chair,6694.49,3791.5
+20035,Lamp 20035,Home,Lamp,1731.82,1113.51
+20036,Mouse 20036,Electronics,Mouse,8410.09,4511.4
+20037,Sneakers 20037,Fashion,Sneakers,1734.87,900.11
+20038,Dress 20038,Fashion,Dress,780.89,358.2
+20039,Running Shoes 20039,Sports,Running Shoes,570.9,319.77
+20040,Running Shoes 20040,Sports,Running Shoes,1405.02,606.34
+20041,Yoga Mat 20041,Sports,Yoga Mat,1038.65,663.18
+20042,Storage Box 20042,Home,Storage Box,11594.41,5651.46
+20043,Sneakers 20043,Fashion,Sneakers,506.86,295.74
+20044,Chair 20044,Home,Chair,546.78,344.42
+20045,Shampoo 20045,Beauty,Shampoo,360.74,200.18
+20046,Perfume 20046,Beauty,Perfume,1009.74,517.33
+20047,Serum 20047,Beauty,Serum,2184.05,873.58
+20048,Lamp 20048,Home,Lamp,7860.04,3821.49
+20049,Face Wash 20049,Beauty,Face Wash,3955.65,2260.19
+20050,Running Shoes 20050,Sports,Running Shoes,3146.79,1481.52
+20051,Serum 20051,Beauty,Serum,695.77,441.02
+20052,Chair 20052,Home,Chair,762.46,360.49
+20053,Badminton Racket 20053,Sports,Badminton Racket,1726.42,1063.45
+20054,Running Shoes 20054,Sports,Running Shoes,1142.93,410.77
+20055,Shampoo 20055,Beauty,Shampoo,1146.02,721.9
+20056,Running Shoes 20056,Sports,Running Shoes,2108.57,823.77
+20057,Sneakers 20057,Fashion,Sneakers,1299.09,681.94
+20058,Lamp 20058,Home,Lamp,825.82,425.37
+20059,Backpack 20059,Fashion,Backpack,1423.46,776.46
+20060,Backpack 20060,Fashion,Backpack,794.08,468.82
+20061,Face Wash 20061,Beauty,Face Wash,1419.98,624.9
+20062,Serum 20062,Beauty,Serum,305.94,136.42
+20063,Monitor 20063,Electronics,Monitor,48801.99,20977.47
+20064,Serum 20064,Beauty,Serum,4631.2,2304.97
+20065,Keyboard 20065,Electronics,Keyboard,4850.41,1964.56
+20066,Smartphone 20066,Electronics,Smartphone,37192.6,14356.0
+20067,Storage Box 20067,Home,Storage Box,355.37,156.32
+20068,Backpack 20068,Fashion,Backpack,608.21,337.91
+20069,Running Shoes 20069,Sports,Running Shoes,12203.61,5611.88
+20070,Monitor 20070,Electronics,Monitor,965.14,558.33
+20071,Laptop 20071,Electronics,Laptop,36137.71,17268.1
+20072,Shampoo 20072,Beauty,Shampoo,2282.11,915.86
+20073,Sneakers 20073,Fashion,Sneakers,672.95,403.06
+20074,Perfume 20074,Beauty,Perfume,472.42,276.25
+20075,Moisturizer 20075,Beauty,Moisturizer,3455.22,1702.44
+20076,Mouse 20076,Electronics,Mouse,5763.89,3459.13
+20077,Cushion 20077,Home,Cushion,2967.86,1248.94
+20078,Cookware 20078,Home,Cookware,1555.58,716.87
+20079,Monitor 20079,Electronics,Monitor,1977.23,932.71
+20080,Moisturizer 20080,Beauty,Moisturizer,3178.09,1633.33
+20081,Badminton Racket 20081,Sports,Badminton Racket,1102.66,531.45
+20082,Dumbbells 20082,Sports,Dumbbells,2742.49,1289.44
+20083,Monitor 20083,Electronics,Monitor,1586.83,802.65
+20084,Keyboard 20084,Electronics,Keyboard,1515.77,816.64
+20085,Dumbbells 20085,Sports,Dumbbells,535.19,260.68
+20086,Dress 20086,Fashion,Dress,1750.18,990.74
+20087,Face Wash 20087,Beauty,Face Wash,843.69,494.1
+20088,T-Shirt 20088,Fashion,T-Shirt,1969.68,1132.48
+20089,Dress 20089,Fashion,Dress,6296.83,2350.0
+20090,Serum 20090,Beauty,Serum,328.51,167.06
+20091,Dress 20091,Fashion,Dress,2708.48,1134.09
+20092,Laptop 20092,Electronics,Laptop,2265.41,1302.01
+20093,Bedsheet 20093,Home,Bedsheet,4388.2,2379.34
+20094,Smartphone 20094,Electronics,Smartphone,1174.21,661.48
+20095,Smartphone 20095,Electronics,Smartphone,34386.07,12126.54
+20096,Perfume 20096,Beauty,Perfume,1259.28,785.79
+20097,Cushion 20097,Home,Cushion,875.47,357.51
+20098,Cookware 20098,Home,Cookware,3753.6,2182.25
+20099,Headphones 20099,Electronics,Headphones,51823.07,23412.84
+20100,Mouse 20100,Electronics,Mouse,12907.55,4910.75
+20101,Jacket 20101,Fashion,Jacket,495.5,311.24
+20102,T-Shirt 20102,Fashion,T-Shirt,631.51,312.41
+20103,Cookware 20103,Home,Cookware,994.09,508.3
+20104,Laptop 20104,Electronics,Laptop,810.35,376.04
+20105,Badminton Racket 20105,Sports,Badminton Racket,7683.3,4304.87
+20106,Sneakers 20106,Fashion,Sneakers,5100.65,2361.04
+20107,Running Shoes 20107,Sports,Running Shoes,1956.05,1249.76
+20108,Bedsheet 20108,Home,Bedsheet,661.43,266.18
+20109,Chair 20109,Home,Chair,9975.97,3938.22
+20110,Mouse 20110,Electronics,Mouse,27669.14,13251.38
+20111,Perfume 20111,Beauty,Perfume,1113.65,713.31
+20112,Laptop 20112,Electronics,Laptop,1872.46,1089.62
+20113,Perfume 20113,Beauty,Perfume,1643.54,897.05
+20114,Football 20114,Sports,Football,6490.61,4074.73
+20115,Sneakers 20115,Fashion,Sneakers,3585.93,1528.09
+20116,Running Shoes 20116,Sports,Running Shoes,14639.11,7180.81
+20117,Face Wash 20117,Beauty,Face Wash,1124.34,526.44
+20118,Laptop 20118,Electronics,Laptop,12313.04,5601.05
+20119,T-Shirt 20119,Fashion,T-Shirt,6447.76,4051.44
+20120,Serum 20120,Beauty,Serum,1105.53,706.04
+20121,Perfume 20121,Beauty,Perfume,797.87,498.73
+20122,Laptop 20122,Electronics,Laptop,14754.48,8539.23
+20123,Face Wash 20123,Beauty,Face Wash,846.18,317.31
+20124,Yoga Mat 20124,Sports,Yoga Mat,13395.78,5604.63
+20125,Keyboard 20125,Electronics,Keyboard,1356.16,737.87
+20126,Yoga Mat 20126,Sports,Yoga Mat,1889.47,1096.46
+20127,Cushion 20127,Home,Cushion,483.68,170.85
+20128,Shampoo 20128,Beauty,Shampoo,472.44,268.02
+20129,Smartphone 20129,Electronics,Smartphone,3852.65,1967.85
+20130,Perfume 20130,Beauty,Perfume,513.1,315.11
+20131,Cookware 20131,Home,Cookware,4823.66,1816.91
+20132,Backpack 20132,Fashion,Backpack,1481.71,958.89
+20133,Face Wash 20133,Beauty,Face Wash,1863.13,1176.7
+20134,Jeans 20134,Fashion,Jeans,4055.28,2160.08
+20135,Smartphone 20135,Electronics,Smartphone,57639.3,26999.4
+20136,Cookware 20136,Home,Cookware,8336.97,3996.04
+20137,Perfume 20137,Beauty,Perfume,3884.29,2001.16
+20138,Keyboard 20138,Electronics,Keyboard,3333.11,1217.57
+20139,Badminton Racket 20139,Sports,Badminton Racket,4147.19,1778.79
+20140,Perfume 20140,Beauty,Perfume,3463.21,2168.28
+20141,Running Shoes 20141,Sports,Running Shoes,3867.99,2487.02
+20142,Cushion 20142,Home,Cushion,7561.58,2883.07
+20143,Monitor 20143,Electronics,Monitor,10016.19,6270.24
+20144,Mouse 20144,Electronics,Mouse,26532.18,14440.67
+20145,Storage Box 20145,Home,Storage Box,331.46,143.53
+20146,Lamp 20146,Home,Lamp,3765.71,2293.07
+20147,Perfume 20147,Beauty,Perfume,466.14,257.27
+20148,Face Wash 20148,Beauty,Face Wash,584.73,229.51
+20149,Serum 20149,Beauty,Serum,1689.82,893.0
+20150,Bedsheet 20150,Home,Bedsheet,7123.14,3165.89
+20151,Monitor 20151,Electronics,Monitor,31724.89,20508.74
+20152,Bedsheet 20152,Home,Bedsheet,1133.67,691.09
+20153,Running Shoes 20153,Sports,Running Shoes,11104.32,5300.22
+20154,Running Shoes 20154,Sports,Running Shoes,705.67,272.04
+20155,Badminton Racket 20155,Sports,Badminton Racket,9423.58,4590.27
+20156,Keyboard 20156,Electronics,Keyboard,1052.52,389.44
+20157,Cushion 20157,Home,Cushion,8888.17,4176.33
+20158,Shampoo 20158,Beauty,Shampoo,1755.56,899.9
+20159,Jeans 20159,Fashion,Jeans,4841.96,1984.26
+20160,Cushion 20160,Home,Cushion,3652.46,2207.0
+20161,Headphones 20161,Electronics,Headphones,12104.43,4875.34
+20162,Mouse 20162,Electronics,Mouse,10460.54,5750.64
+20163,Keyboard 20163,Electronics,Keyboard,70646.87,29586.76
+20164,Badminton Racket 20164,Sports,Badminton Racket,11095.53,5298.72
+20165,Dumbbells 20165,Sports,Dumbbells,3173.03,1708.63
+20166,Bedsheet 20166,Home,Bedsheet,7411.28,3795.83
+20167,Mouse 20167,Electronics,Mouse,57110.65,29675.06
+20168,T-Shirt 20168,Fashion,T-Shirt,902.26,559.09
+20169,Chair 20169,Home,Chair,429.83,219.43
+20170,Headphones 20170,Electronics,Headphones,14218.65,7156.07
+20171,Shampoo 20171,Beauty,Shampoo,549.39,355.49
+20172,Dumbbells 20172,Sports,Dumbbells,534.01,205.89
+20173,Football 20173,Sports,Football,655.41,315.56
+20174,Football 20174,Sports,Football,9489.2,5657.72
+20175,Football 20175,Sports,Football,512.76,312.64
+20176,Keyboard 20176,Electronics,Keyboard,4966.93,2828.62
+20177,Cookware 20177,Home,Cookware,577.46,291.4
+20178,Storage Box 20178,Home,Storage Box,9139.42,3920.03
+20179,Mouse 20179,Electronics,Mouse,65946.55,30216.01
+20180,Keyboard 20180,Electronics,Keyboard,4768.23,2316.26
+20181,Bedsheet 20181,Home,Bedsheet,1516.64,752.06
+20182,Perfume 20182,Beauty,Perfume,486.61,314.6
+20183,Dress 20183,Fashion,Dress,2415.51,1541.5
+20184,Cushion 20184,Home,Cushion,3782.1,2411.97
+20185,Keyboard 20185,Electronics,Keyboard,2259.46,1390.82
+20186,Headphones 20186,Electronics,Headphones,5531.45,2551.92
+20187,Cushion 20187,Home,Cushion,3068.6,1390.76
+20188,Storage Box 20188,Home,Storage Box,1301.72,615.08
+20189,Shampoo 20189,Beauty,Shampoo,497.27,254.23
+20190,Football 20190,Sports,Football,7142.06,3397.58
+20191,Headphones 20191,Electronics,Headphones,16000.09,6354.85
+20192,Sneakers 20192,Fashion,Sneakers,1251.49,516.17
+20193,Dumbbells 20193,Sports,Dumbbells,732.73,354.9
+20194,Monitor 20194,Electronics,Monitor,12458.17,7476.18
+20195,Yoga Mat 20195,Sports,Yoga Mat,12350.75,6841.86
+20196,Running Shoes 20196,Sports,Running Shoes,1639.7,687.88
+20197,Smartphone 20197,Electronics,Smartphone,2872.53,1123.32
+20198,Headphones 20198,Electronics,Headphones,4380.66,2456.56
+20199,Moisturizer 20199,Beauty,Moisturizer,648.46,325.89
+20200,Storage Box 20200,Home,Storage Box,667.42,334.31
+20201,Running Shoes 20201,Sports,Running Shoes,1393.23,596.08
+20202,Cookware 20202,Home,Cookware,11129.06,5688.47
+20203,Shampoo 20203,Beauty,Shampoo,255.91,103.53
+20204,Jacket 20204,Fashion,Jacket,1164.22,744.86
+20205,Jacket 20205,Fashion,Jacket,992.31,642.07
+20206,Smartphone 20206,Electronics,Smartphone,7333.43,3267.21
+20207,Laptop 20207,Electronics,Laptop,7864.92,5011.8
+20208,Monitor 20208,Electronics,Monitor,1173.49,689.03
+20209,Badminton Racket 20209,Sports,Badminton Racket,7771.74,4696.59
+20210,Smartphone 20210,Electronics,Smartphone,39951.74,24370.91
+20211,Cushion 20211,Home,Cushion,507.3,185.45
+20212,Storage Box 20212,Home,Storage Box,1054.5,525.69
+20213,Keyboard 20213,Electronics,Keyboard,24406.41,13831.92
+20214,Badminton Racket 20214,Sports,Badminton Racket,13633.91,6410.28
+20215,Storage Box 20215,Home,Storage Box,4619.21,2986.9
+20216,Keyboard 20216,Electronics,Keyboard,28204.64,12271.06
+20217,Keyboard 20217,Electronics,Keyboard,69091.13,39024.1
+20218,Face Wash 20218,Beauty,Face Wash,2852.11,1676.96
+20219,Face Wash 20219,Beauty,Face Wash,2374.82,1493.38
+20220,Storage Box 20220,Home,Storage Box,8741.43,4054.0
+20221,Chair 20221,Home,Chair,346.01,167.47
+20222,Headphones 20222,Electronics,Headphones,37415.28,22609.43
+20223,Smartphone 20223,Electronics,Smartphone,3208.58,1610.64
+20224,Chair 20224,Home,Chair,6470.02,3499.95
+20225,Sneakers 20225,Fashion,Sneakers,1183.96,611.67
+20226,T-Shirt 20226,Fashion,T-Shirt,2006.11,1202.04
+20227,Backpack 20227,Fashion,Backpack,540.46,225.55
+20228,Perfume 20228,Beauty,Perfume,809.37,355.25
+20229,T-Shirt 20229,Fashion,T-Shirt,451.9,167.11
+20230,Sneakers 20230,Fashion,Sneakers,4929.39,1876.99
+20231,Sneakers 20231,Fashion,Sneakers,1001.94,443.63
+20232,Perfume 20232,Beauty,Perfume,338.08,119.67
+20233,Mouse 20233,Electronics,Mouse,37480.36,23462.2
+20234,Badminton Racket 20234,Sports,Badminton Racket,616.51,221.5
+20235,Bedsheet 20235,Home,Bedsheet,5067.15,2084.95
+20236,T-Shirt 20236,Fashion,T-Shirt,798.64,492.51
+20237,Face Wash 20237,Beauty,Face Wash,1862.11,743.36
+20238,Dumbbells 20238,Sports,Dumbbells,1827.99,769.32
+20239,Mouse 20239,Electronics,Mouse,29037.02,11401.1
+20240,Dress 20240,Fashion,Dress,5892.88,2880.72
+20241,Smartphone 20241,Electronics,Smartphone,1014.76,464.94
+20242,Keyboard 20242,Electronics,Keyboard,856.35,484.3
+20243,Moisturizer 20243,Beauty,Moisturizer,688.75,402.59
+20244,Headphones 20244,Electronics,Headphones,25178.1,13648.72
+20245,Jacket 20245,Fashion,Jacket,2814.05,1526.29
+20246,Running Shoes 20246,Sports,Running Shoes,1642.3,588.68
+20247,Shampoo 20247,Beauty,Shampoo,286.47,140.56
+20248,Shampoo 20248,Beauty,Shampoo,1003.97,405.22
+20249,Mouse 20249,Electronics,Mouse,20488.43,10610.18
+20250,Running Shoes 20250,Sports,Running Shoes,11658.68,5085.0
