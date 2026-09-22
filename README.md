@@ -219,20 +219,19 @@ Covers:
 
 ### 1. Executive Overview
 
-![Executive Overview](screenshots/executive-overview.png)
-https://github.com/dhru07/E-Commerce-Sales-Customer-Analytics/blob/26383115a553b6b5155d21033278488ad4f946b4/Screenshots/01_Executive_Overview.png
+<img width="2408" height="1600" alt="image" src="https://github.com/user-attachments/assets/6b505a5f-cd49-481d-8428-584fbaa74519" />
 
 Provides the high-level business view with KPI cards, monthly sales/profit trends, category performance and channel performance.
 
 ### 2. Customer & Product Analytics
 
-![Customer & Product Analytics](screenshots/customer-product-analytics.png)
+<img width="2412" height="1602" alt="image" src="https://github.com/user-attachments/assets/f0517113-84bf-450c-943c-57aa74fddcec" />
 
 Focuses on customer composition, customer value distribution, top products, category profitability and product-level revenue vs profit.
 
 ### 3. Marketing & Returns
 
-![Marketing & Returns](screenshots/marketing-returns.png)
+<img width="2402" height="1608" alt="image" src="https://github.com/user-attachments/assets/c6e39230-0ae2-4f78-9071-6807de5f9879" />
 
 Combines marketing-channel performance with return reasons, category return rates and a return-reason/category heatmap.
 
