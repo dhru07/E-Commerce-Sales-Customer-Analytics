@@ -220,6 +220,7 @@ Covers:
 ### 1. Executive Overview
 
 ![Executive Overview](screenshots/executive-overview.png)
+https://github.com/dhru07/E-Commerce-Sales-Customer-Analytics/blob/26383115a553b6b5155d21033278488ad4f946b4/Screenshots/01_Executive_Overview.png
 
 Provides the high-level business view with KPI cards, monthly sales/profit trends, category performance and channel performance.
 
